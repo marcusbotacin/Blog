@@ -1,2 +1,2 @@
 # Blog
-Code examples for my blog posts
+Code examples for [my blog](http://marcusonsecurity.blogspot.com/) posts.
